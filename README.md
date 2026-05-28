@@ -79,20 +79,13 @@ Wait, these are nationally leading commercial technologies, with no equivalent c
   </tr>
   <tr>
     <td>
-      <video src=https://github.com/user-attachments/assets/33308041-5990-4f3f-9479-95b87907a575 controls preload></video>
+      <video src=https://github.com/user-attachments/assets/b132fd71-7391-4066-8de4-03045e318537 controls preload></video>
     </td>
     <td>
-      <video src=https://github.com/user-attachments/assets/e1d29783-1c01-4f21-9cde-418f86e3a745 controls preload></video>
+      <video src=https://github.com/user-attachments/assets/b483c965-f048-43ae-9682-d718062022d0 controls preload></video>
     </td>
   </tr>
-  <tr>
-    <td>
-      <video src=https://github.com/user-attachments/assets/2ef6fcd6-882a-44cb-8704-2ca3fcd8b543 controls preload></video>
-    </td>
-    <td>
-      <video src=https://github.com/user-attachments/assets/ffdc4d83-0185-4eaf-ac01-a1d65b7b9e2c controls preload></video>
-    </td>
-  <tr>
+
 </table>
 
 
