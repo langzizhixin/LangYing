@@ -36,27 +36,27 @@ WebRTC / Live streaming
 
 # 👍  Advantages
 ## 🖥️ CPU Inference
-### No high-end GPU required, Supports mid-to-high-end mobile CPUs and low-to-mid-end desktop CPUs.
-### Recommended hardware:
-### CPU	Performance
-### Android Snapdragon 8 Gen 2
-### iPhone Apple A18 Pro
-### Intel i3 i5 / Ryzen 5	Basic real-time
-### Intel i7 / Ryzen 7	Smooth real-time
-###### Xeon / EPYC	Multi-avatar deployment
-### Budget desktop CPUs	Fully supported
+##### No high-end GPU required, Supports mid-to-high-end mobile CPUs and low-to-mid-end desktop CPUs.
+##### Recommended hardware:
+##### CPU	Performance
+##### Android Snapdragon 8 Gen 2
+##### iPhone Apple A18 Pro
+##### Intel i3 i5 / Ryzen 5	Basic real-time
+##### Intel i7 / Ryzen 7	Smooth real-time
+##### Xeon / EPYC	Multi-avatar deployment
+##### Budget desktop CPUs	Fully supported
 ## Supported platforms:
-### Intel
-### AMD
-### ARM
+#### Intel
+#### AMD
+#### ARM
 
 # ⚡ Performance Benchmark
-### CPU Real-Time Test
-### Hardware	Resolution	FPS	Average Delay
-### i3-12100	720P	30 FPS	1s
-### i5-12400	1080P	25-30 FPS	1.2s
-### i7-14700	1080P	30 FPS	700ms
-### Ryzen 7950X	1080P	40 FPS	500ms
+##### CPU Real-Time Test
+##### Hardware	Resolution	FPS	Average Delay
+##### i3-12100	720P	30 FPS	1s
+##### i5-12400	1080P	25-30 FPS	1.2s
+##### i7-14700	1080P	30 FPS	700ms
+##### Ryzen 7950X	1080P	40 FPS	500ms
 
 
 
