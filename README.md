@@ -1,15 +1,22 @@
 # 🚀 LangYing
-### SOTA Realtime Multimodal Digital Human Platform
-### Realtime AI Avatar · Streaming Interaction · WebRTC · Talking Head. LangQing is a realtime interactive digital human platform developed by Langzizhixin Technology. SOTA realtime multimodal digital human platform. 
-### 一个超保真还原本人牙齿和嘴型的商用定制实时数字人项目，SOTA级。
-## 🏗️ LangQing realtime interactive digital human
+### LangYing — Real-Time AI Digital Human System on CPU
+### Ultra-low latency real-time AI digital human framework running entirely on CPU.
+Supports:
+Real-time conversation
+Streaming TTS
+Lip synchronization
+Expression driving
+Semantic motion generation
+LLM integration
+WebRTC / Live streaming
+
 <p align='center'>
   <b>
-    <a href="https://www.bilibili.com/video/BV1sbRKBFECa/?spm_id_from=333.1387.upload.video_card.click&vd_source=7720ff9e037156b51374d14ee8f76b51">Video </a>
+    <a href="https://www.bilibili.com/video/BV1ScRrBNEqJ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=7720ff9e037156b51374d14ee8f76b51">Video </a>
     |     
     <a href="https://github.com/langzizhixin">Project Page</a>
     |
-    <a href="https://github.com/langzizhixin/LangQing">Code</a> 
+    <a href="https://github.com/langzizhixin/LangYing">Code</a> 
   </b>
 </p> 
 
@@ -28,45 +35,27 @@
 
 
 # 👍  Advantages
-1. Only act when speaking, with semantic coordination.
-2. It can switch videos seamlessly without any flickering.
-3. Commercial algorithms can achieve a similarity of over 96% between teeth and mouth shapes.
-4. It can provide an extremely fast response within 500 milliseconds, compared to the average response time of around 1.5 seconds.
-5. Support the integration of various intelligent agents.
-6. Supports 2D, 2.5D, and 3D.
-7. Supports super concurrency. The 3060, priced at over 1000 yuan RMB, supports 4 to 6 concurrent paths.
-8. Support cloud deployment, local deployment, and information technology innovation transformation.
-9. Support performances such as singing, dancing, and changing clothes.
-10. Supports RAG, workflow, and agent orchestration.
-11. Low latency and high synchronization, ensuring high synchronization between audio and video lip shape, action, and voice.
-12. Supports multiple languages and switching between multiple models.
-13. Highly robust automatic speech recognition (ASR) + text-to-speech (TTS).
-14. Develop long-term contextual memory ability.
-15. It features personalized customization functions.
-16. Compliance and Security: Support for private deployment and data isolation to ensure security and reliability.
-17. Support seamless integration with mainstream large models.
+🖥️ CPU Inference
+No high-end GPU required, Supports mid-to-high-end mobile CPUs and low-to-mid-end desktop CPUs.
+Recommended hardware:
+CPU	Performance
+Android Snapdragon 8 Gen 2
+iPhone Apple A18 Pro
+Intel i3 i5 / Ryzen 5	Basic real-time
+Intel i7 / Ryzen 7	Smooth real-time
+Xeon / EPYC	Multi-avatar deployment
+Budget desktop CPUs	Fully supported
+Supported platforms:
+Intel
+AMD
+ARM
 
-Wait, these are nationally leading commercial technologies, with no equivalent competing products in China, and currently only second to HeyGen in the United States.
-
-# 🔥 Features
-- Ultra low latency realtime interaction (<500ms fast response)
-- Natural gesture generation driven by speech semantics
-- Seamless video switching without flickering
-- High lip-sync accuracy (up to 96% similarity)
-- WebRTC realtime streaming
-- GPU realtime inference
-- Multi-agent integration
-- RAG and workflow orchestration
-- Singing, dancing and costume changing
-- 2D / 2.5D / 3D digital humans
-- Human / anime / animal  support
-- Cloud deployment and on-premise deployment
-- XinChuang compatibility support
-- Multi-language support
-- Long-context memory
-- Persona customization
-- High concurrency deployment
-
+# ⚡ Performance Benchmark
+CPU Real-Time Test
+Hardware	Resolution	FPS	Average Delay
+i5-12400	720P	24 FPS	1.2s
+i7-14700	1080P	30 FPS	700ms
+Ryzen 7950X	1080P	40 FPS	500ms
 
 
 
