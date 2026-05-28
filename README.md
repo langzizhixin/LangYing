@@ -43,7 +43,7 @@ WebRTC / Live streaming
 ### iPhone Apple A18 Pro
 ### Intel i3 i5 / Ryzen 5	Basic real-time
 ### Intel i7 / Ryzen 7	Smooth real-time
-### Xeon / EPYC	Multi-avatar deployment
+###### Xeon / EPYC	Multi-avatar deployment
 ### Budget desktop CPUs	Fully supported
 ## Supported platforms:
 ### Intel
