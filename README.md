@@ -32,7 +32,7 @@ WebRTC / Live streaming
 <p align='center'>  
     <img src='assets/3333.png' width='1200'/>
 
-## 📊 supports  RK3576.
+## 📊 supports  RK3576
 <p align='center'>  
     <img src='assets/4444.png' width='1200'/>
 </p>
