@@ -1,6 +1,6 @@
 # 🚀 LangYing
 ### LangYing — Real-Time AI Digital Human System on CPU
-### Ultra-low latency real-time AI digital human framework running entirely on CPU.
+### Ultra-low latency real-time AI digital human framework running entirely on CPU. It also supports real-time operation on Rockchip's RK3576.
 Supports:
 Real-time conversation
 Streaming TTS
